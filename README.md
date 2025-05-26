@@ -4,7 +4,8 @@
 ![GitHub](https://img.shields.io/badge/Language-Python-orange)
 ![GitHub](https://img.shields.io/badge/Data-Land_Registry-brightgreen)
 
-Analysis of property sales in Buckinghamshire (MK postcodes) with time series forecasting and trend detection. Includes R and Python implementations.
+Analysis of property sales in Buckinghamshire (MK postcodes) with time series forecasting and trend detection. 
+Includes R and Python implementations.
 
 ## 📌 Project Overview
 - **Goal**: Analyze and forecast property prices using Land Registry data (2021-2022)
