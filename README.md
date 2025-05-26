@@ -14,3 +14,4 @@ Analysis of property sales in Buckinghamshire (MK postcodes) with time series fo
   - Predictive modeling for future prices
 
 ## 📂 Files
+https://github.com/annauk/soldpropertiestrendbuck/blob/main/sold_properties_buck_102021-012022.xlsx
